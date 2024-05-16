@@ -1,5 +1,5 @@
 # Example program for Best-of-Random Differential Evolution (BoRDE) optimization method
-This Fortran program provides an example use case to demonstrate the application of the Best of Random Differential Evolution (BoRDE) method with adaptive parameter setting.
+This Fortran program provides an example use case to demonstrate the application of the Best-of-Random Differential Evolution (BoRDE) method with adaptive parameter setting.
 
 The main program entry point is in file Fit_FunctionParam.f90, while the main Differential Evolution algorithm is in file/subroutine BestOfRandomDE, which is called from subroutine MinBoRDE.
 The code is not particularly polished or documented, but should provide interested users with an example as a starting point. 
