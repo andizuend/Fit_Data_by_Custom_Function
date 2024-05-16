@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Fit_Data_by_Custom_Function", "Fit_Data_by_Custom_Function.vfproj", "{F7476240-0300-4F0A-B050-56F668C16CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7476240-0300-4F0A-B050-56F668C16CA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7476240-0300-4F0A-B050-56F668C16CA9}.Debug|Win32.Build.0 = Debug|Win32
+		{F7476240-0300-4F0A-B050-56F668C16CA9}.Debug|x64.ActiveCfg = Debug|x64
+		{F7476240-0300-4F0A-B050-56F668C16CA9}.Debug|x64.Build.0 = Debug|x64
+		{F7476240-0300-4F0A-B050-56F668C16CA9}.Release|Win32.ActiveCfg = Release|Win32
+		{F7476240-0300-4F0A-B050-56F668C16CA9}.Release|Win32.Build.0 = Release|Win32
+		{F7476240-0300-4F0A-B050-56F668C16CA9}.Release|x64.ActiveCfg = Release|x64
+		{F7476240-0300-4F0A-B050-56F668C16CA9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7FF189-3941-4A45-A127-914D6BE0DEF0}
+	EndGlobalSection
+EndGlobal
